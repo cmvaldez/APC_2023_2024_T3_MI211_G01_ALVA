@@ -1,1 +1,1 @@
-This is for PROJMAN.
+rm -rf .gitThis is for PROJMAN.
